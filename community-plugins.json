@@ -16289,10 +16289,10 @@
     "repo": "bnchiang96/xiaohongshu-importer"
 },
 {
-    "id": "themed-obsidian-discord-rpc",
-    "name": "Themed Obsidian Discord RPC",
+    "id": "themed-discord-rpc",
+    "name": "Themed Discord RPC",
     "author": "Mouadhbendjedidi",
-    "description": "A Customizable Obsidian discord RPC",
+    "description": "A Customizable discord RPC",
     "repo": "Mouadhbendjedidi/themed-obsidian-discord-rpc"
 }
 ]
